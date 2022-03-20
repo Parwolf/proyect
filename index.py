@@ -66,4 +66,4 @@ async def comandos(ctx):
 async def on_ready():
     print('Mi bot esta listo')
 
-bot.run('')
+#bot.run('Aqui va tu TOKEN')
